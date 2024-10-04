@@ -1,0 +1,8 @@
+"primero creas una carpeta llamada ejercicio consolsa
+con un copy con creas el documento de texto que se llama notas.txt
+despues se crea una carpeta llamada documento con md y el nombre de la carpeta
+dentro de ella vuelves a hacer copy con creando 3 archivos de texto 
+copias el notas.txt y lo renombras con el comando ren 
+entramos al notas.txt con type y el nombre del documento y borramos el archivo
+con del notas.txt, despues borramos toda la carpeta documentos con el mismo comando 
+y finalmente ense¤amos la estructura con tree de ejercicio consola " 
